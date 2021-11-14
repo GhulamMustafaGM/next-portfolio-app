@@ -1,0 +1,25 @@
+{
+  "name": "next-portfolio-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhulamMustafaGM/next-portfolio-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhulamMustafaGM/next-portfolio-app/issues"
+  },
+  "homepage": "https://github.com/GhulamMustafaGM/next-portfolio-app#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
